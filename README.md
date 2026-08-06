@@ -3,7 +3,7 @@
 **Moodwave** adalah aplikasi web jurnal harian berbasis suasana hati dan musik.  
 Pengguna dapat mencatat perasaan mereka dan mengaitkannya dengan satu lagu yang mewakili hari itu.
 
-> Proyek ini dibuat sebagai bagian dari LSP Teknologi Digital.
+> Proyek ini dibuat sebagai dari LSP Teknologi Digital.
 > © 2026 Feri Ferdianto XII PPLG 3 - SMKN 5 Malang
 
 ---
